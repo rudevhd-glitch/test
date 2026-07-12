@@ -1,0 +1,12 @@
+# Project place file
+/Arcada v0.1.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Local protection tool dependencies
+/tools/fengari/node_modules/
+/tools/Prometheus/
